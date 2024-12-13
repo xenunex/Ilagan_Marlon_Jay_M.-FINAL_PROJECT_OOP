@@ -8,7 +8,7 @@ I. Project Overview
 II. OOP Principles Applied
 This project demonstrates the effective application of Object-Oriented Programming (OOP) principles:
 
-****Abstraction****: The Bill class serves as an abstract base class, encapsulating the common behavior of all bill types while allowing specific types to provide their own implementation of the calculateBill method.
+* **Abstraction**: The Bill class serves as an abstract base class, encapsulating the common behavior of all bill types while allowing specific types to provide their own implementation of the calculateBill method.
 
 ****Inheritance****: Different types of bills (WaterBill, ElectricityBill, InternetBill, FoodBill, RentBill) inherit from the Bill class, reusing common functionality and providing specialized behavior.
 
