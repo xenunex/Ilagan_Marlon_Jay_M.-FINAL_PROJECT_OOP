@@ -8,13 +8,13 @@ I. Project Overview
 II. OOP Principles Applied
 This project demonstrates the effective application of Object-Oriented Programming (OOP) principles:
 
-* **Abstraction**: The Bill class serves as an abstract base class, encapsulating the common behavior of all bill types while allowing specific types to provide their own implementation of the calculateBill method.
+* ****Abstraction****: The Bill class serves as an abstract base class, encapsulating the common behavior of all bill types while allowing specific types to provide their own implementation of the calculateBill method.
 
-****Inheritance****: Different types of bills (WaterBill, ElectricityBill, InternetBill, FoodBill, RentBill) inherit from the Bill class, reusing common functionality and providing specialized behavior.
+* ****Inheritance****: Different types of bills (WaterBill, ElectricityBill, InternetBill, FoodBill, RentBill) inherit from the Bill class, reusing common functionality and providing specialized behavior.
 
-****Polymorphism****: The program uses polymorphism to treat all bill types as Bill objects, enabling a consistent interface for calculating and displaying bill details.
+* ****Polymorphism****: The program uses polymorphism to treat all bill types as Bill objects, enabling a consistent interface for calculating and displaying bill details.
 
-****Encapsulation****: The Bill class encapsulates data (e.g., totalAmount) with private access and provides controlled access via getter and setter methods.
+* ****Encapsulation****: The Bill class encapsulates data (e.g., totalAmount) with private access and provides controlled access via getter and setter methods.
 
 
 III. Chosen SDG and Integration
@@ -24,7 +24,7 @@ III. Chosen SDG and Integration
 
 IV. Instructions for Running the Program
 
-**1. Clone the repository and navigate to the project folder.**
-**2. Compile the program using javac BillCalculator.java.**
-**3. Run the program with java BillCalculator.**
-**4. Follow the prompts to calculate and manage your bills.**
+* **1. Clone the repository and navigate to the project folder.**
+* **2. Compile the program using javac BillCalculator.java.**
+* **3. Run the program with java BillCalculator.**
+* **4. Follow the prompts to calculate and manage your bills.**
