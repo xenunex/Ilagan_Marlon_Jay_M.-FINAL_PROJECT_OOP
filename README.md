@@ -24,7 +24,10 @@ This project demonstrates the effective application of Object-Oriented Programmi
 
 
 ## IV. Instructions for Running the Program
-1. Clone the repository and navigate to the project folder.
-2. Compile the program using javac BillCalculator.java.
-3. Run the program with java BillCalculator.
-4. Follow the prompts to calculate and manage your bills.
+1. Open your IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
+2. Create a new Java project.
+3. Add a new class file and name it BillCalculator.
+4. Copy and paste the provided code into the BillCalculator class file.
+5. Run the program by clicking the Run button in the IDE.
+6. Follow the on-screen prompts to calculate and manage your bills.
+
