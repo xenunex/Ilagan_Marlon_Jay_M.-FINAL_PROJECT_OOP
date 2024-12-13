@@ -1,8 +1,8 @@
-Bill Calculator
+## Bill Calculator
 
 
 I. Project Overview
-The Bill Calculator is a Java-based console application designed to help users compute and manage various types of bills. This program simplifies the calculation of bills for utilities like water, electricity, internet, food, and rent. Users can add multiple bills, calculate their total expenses, and optionally compute the remaining amount after deducting bills from their salary.
+The ****Bill Calculator is a Java-based console application designed to help users compute and manage various types of bills. This program simplifies the calculation of bills for utilities like water, electricity, internet, food, and rent. Users can add multiple bills, calculate their total expenses, and optionally compute the remaining amount after deducting bills from their salary.
 
 
 II. OOP Principles Applied
